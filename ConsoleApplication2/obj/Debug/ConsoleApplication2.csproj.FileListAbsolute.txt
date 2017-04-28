@@ -1,0 +1,6 @@
+c:\users\pvo\documents\visual studio 2015\Projects\Test123github\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\pvo\documents\visual studio 2015\Projects\Test123github\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\pvo\documents\visual studio 2015\Projects\Test123github\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\pvo\documents\visual studio 2015\Projects\Test123github\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\pvo\documents\visual studio 2015\Projects\Test123github\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\pvo\documents\visual studio 2015\Projects\Test123github\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
